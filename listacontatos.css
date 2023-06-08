@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(37, 36, 36);
+}
+
+
+#contatos{
+    margin-left: 400px;
+}
+
+h1{
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+form{
+    color: aqua;
+    margin-bottom: 10px;
+}
+
+table{
+    color:aqua
+}
+
+table th{
+    background-color :black;
+    border: 1px white solid;
+}
+
+
+table {
+    width: 547px;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
